@@ -11,6 +11,18 @@
     box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
 }
 
+b {
+    display: flex;
+    justify-content: right;
+    margin-top: 30px;
+    margin-right: 550px;
+}
+
+select {
+    float: right;
+    margin-right: 550px;
+}
+
 article {
     display: flex;
     flex-direction: row;
